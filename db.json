@@ -1,4 +1,4 @@
-{ 
+{"data":{ 
    "next":"https://wastemanagement.post-iot.lu/measurement/measurements?dateTo=2019-10-28&pageSize=2000&source=83512&dateFrom=2019-10-26&currentPage=2",
    "self":"https://wastemanagement.post-iot.lu/measurement/measurements?dateTo=2019-10-28&pageSize=2000&source=83512&dateFrom=2019-10-26&currentPage=1",
    "statistics":{ 
@@ -56,4 +56,5 @@
          }
       }
    ]
+}
 }
