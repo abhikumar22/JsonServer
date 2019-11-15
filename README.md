@@ -1,6 +1,6 @@
 # JsonServer
 
-Hit API :- https://my-json-server.typicode.com/abhikumar22/JsonServer/Tournament
+Hit API :- https://my-json-server.typicode.com/abhikumar22/JsonServer/data
 
 It will return the response when the above api is hitted.<br>
 To get a custom response fork this repo and edit the db.json file as what response you want and then hit <br>
