@@ -1,4 +1,4 @@
-data=[{
+{"data":[{
   name: "Adidas Shoes",
   price: 3500
 }, {
@@ -59,3 +59,4 @@ data=[{
   name: "Iphone 11",
   price: 60000
 }]
+}
