@@ -1,84 +1,83 @@
-"data": [
-  {
-    "name": "Adidas Shoes",
-    "price": 3500
-  },
-  {
-    "name": "Nike shoes",
-    "price": 990
-  },
-  {
-    "name": "Realme 3 pro",
-    "price": 11000
-  },
-  {
-    "name": "Iphone 11",
-    "price": 60000
-  },
-  {
-    "name": "Adidas Shoes",
-    "price": 3500
-  },
-  {
-    "name": "Nike shoes",
-    "price": 990
-  },
-  {
-    "name": "Realme 3 pro",
-    "price": 11000
-  },
-  {
-    "name": "Iphone 11",
-    "price": 60000
-  },
-  {
-    "name": "Adidas Shoes",
-    "price": 3500
-  },
-  {
-    "name": "Nike shoes",
-    "price": 990
-  },
-  {
-    "name": "Realme 3 pro",
-    "price": 11000
-  },
-  {
-    "name": "Iphone 11",
-    "price": 60000
-  },
-  {
-    "name": "Adidas Shoes",
-    "price": 3500
-  },
-  {
-    "name": "Nike shoes",
-    "price": 990
-  },
-  {
-    "name": "Realme 3 pro",
-    "price": 11000
-  },
-  {
-    "name": "Iphone 11",
-    "price": 60000
-  },
-  {
-    "name": "Adidas Shoes",
-    "price": 3500
-  },
-  {
-    "name": "Nike shoes",
-    "price": 990
-  },
-  {
-    "name": "Realme 3 pro",
-    "price": 11000
-  },
-  {
-    "name": "Iphone 11",
-    "price": 60000
-  },
-  
-]
+{
+	"data": [{
+			"name": "Adidas Shoes",
+			"price": 3500
+		},
+		{
+			"name": "Nike shoes",
+			"price": 990
+		},
+		{
+			"name": "Realme 3 pro",
+			"price": 11000
+		},
+		{
+			"name": "Iphone 11",
+			"price": 60000
+		},
+		{
+			"name": "Adidas Shoes",
+			"price": 3500
+		},
+		{
+			"name": "Nike shoes",
+			"price": 990
+		},
+		{
+			"name": "Realme 3 pro",
+			"price": 11000
+		},
+		{
+			"name": "Iphone 11",
+			"price": 60000
+		},
+		{
+			"name": "Adidas Shoes",
+			"price": 3500
+		},
+		{
+			"name": "Nike shoes",
+			"price": 990
+		},
+		{
+			"name": "Realme 3 pro",
+			"price": 11000
+		},
+		{
+			"name": "Iphone 11",
+			"price": 60000
+		},
+		{
+			"name": "Adidas Shoes",
+			"price": 3500
+		},
+		{
+			"name": "Nike shoes",
+			"price": 990
+		},
+		{
+			"name": "Realme 3 pro",
+			"price": 11000
+		},
+		{
+			"name": "Iphone 11",
+			"price": 60000
+		},
+		{
+			"name": "Adidas Shoes",
+			"price": 3500
+		},
+		{
+			"name": "Nike shoes",
+			"price": 990
+		},
+		{
+			"name": "Realme 3 pro",
+			"price": 11000
+		},
+		{
+			"name": "Iphone 11",
+			"price": 60000
+		}
+	]
 }
