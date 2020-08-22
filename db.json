@@ -1,60 +1,61 @@
-{"data":{ 
-   "next":"https://wastemanagement.post-iot.lu/measurement/measurements?dateTo=2019-10-28&pageSize=2000&source=83512&dateFrom=2019-10-26&currentPage=2",
-   "self":"https://wastemanagement.post-iot.lu/measurement/measurements?dateTo=2019-10-28&pageSize=2000&source=83512&dateFrom=2019-10-26&currentPage=1",
-   "statistics":{ 
-      "totalPages":"null",
-      "currentPage":1,
-      "pageSize":2000
-   },
-   "measurements":[ 
-      { 
-         "self":"https://wastemanagement.post-iot.lu/measurement/measurements/108451",
-         "time":"2019-10-26T00:00:06.494Z",
-         "id":"108451",
-         "source":{ 
-            "self":"https://wastemanagement.post-iot.lu/inventory/managedObjects/83512",
-            "id":"83512"
-         },
-         "type":"c8y_Measurement",
-         "battery":{ 
-            "percent":{ 
-               "unit":"%",
-               "value":98
-            }
-         }
-      },
-      { 
-         "self":"https://wastemanagement.post-iot.lu/measurement/measurements/108452",
-         "time":"2019-10-26T00:00:06.538Z",
-         "id":"108452",
-         "source":{ 
-            "self":"https://wastemanagement.post-iot.lu/inventory/managedObjects/83512",
-            "id":"83512"
-         },
-         "type":"TemperatureMeasurement",
-         "c8y_TemperatureMeasurement":{ 
-            "T":{ 
-               "unit":"C",
-               "value":23
-            }
-         }
-      },
-      { 
-         "self":"https://wastemanagement.post-iot.lu/measurement/measurements/108537",
-         "time":"2019-10-26T00:00:06.577Z",
-         "id":"108537",
-         "source":{ 
-            "self":"https://wastemanagement.post-iot.lu/inventory/managedObjects/83512",
-            "id":"83512"
-         },
-         "type":"c8y_Measurement",
-         "c8y_DistanceMeasurement":{ 
-            "distance":{ 
-               "unit":"cm",
-               "value":21
-            }
-         }
-      }
-   ]
-}
-}
+data=[{
+  name: "Adidas Shoes",
+  price: 3500
+}, {
+  name: "Nike shoes",
+  price: 990
+}, {
+  name: "Realme 3 pro",
+  price: 11000
+}, {
+  name: "Iphone 11",
+  price: 60000
+},{
+  name: "Adidas Shoes",
+  price: 3500
+}, {
+  name: "Nike shoes",
+  price: 990
+}, {
+  name: "Realme 3 pro",
+  price: 11000
+}, {
+  name: "Iphone 11",
+  price: 60000
+},{
+  name: "Adidas Shoes",
+  price: 3500
+}, {
+  name: "Nike shoes",
+  price: 990
+}, {
+  name: "Realme 3 pro",
+  price: 11000
+}, {
+  name: "Iphone 11",
+  price: 60000
+},{
+  name: "Adidas Shoes",
+  price: 3500
+}, {
+  name: "Nike shoes",
+  price: 990
+}, {
+  name: "Realme 3 pro",
+  price: 11000
+}, {
+  name: "Iphone 11",
+  price: 60000
+},{
+  name: "Adidas Shoes",
+  price: 3500
+}, {
+  name: "Nike shoes",
+  price: 990
+}, {
+  name: "Realme 3 pro",
+  price: 11000
+}, {
+  name: "Iphone 11",
+  price: 60000
+}]
